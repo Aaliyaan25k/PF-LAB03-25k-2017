@@ -1,5 +1,5 @@
 # PF-LAB03-25k-2017
 ## Hello This is Heading
-***As You Cns See THIS TEXT IS BOLD AND ITALIC***/
+***As You CAN See THIS TEXT IS BOLD AND ITALIC***/
 BUT **THIS IS ONLY BOLD**/
 AND *IT IS ONLY ITALIC*/
